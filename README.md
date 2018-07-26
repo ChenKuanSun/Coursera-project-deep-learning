@@ -23,4 +23,4 @@ If you have difficulty, please refer to it.
   
 - Course 4: Convolutional Neural Networks
   
-- Course 5: Sequence Models.(coming soon)
+- Course 5: Sequence Models.
